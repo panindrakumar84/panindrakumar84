@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi there, I'm Panindra Kumar
 
-<!--
-**panindrakumar84/panindrakumar84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Software Engineer who loves building efficient and scalable backend systems.
+Currently working at **Sandlogic Technologies**, focusing on **Node.js**, **NestJS**, and **full-stack** development.
+ Always learning — recently diving deep into **networking**, **system design**, and **real-time apps** using WebSockets.
 
-Here are some ideas to get you started:
+🎯 I enjoy:
+- Building practical side projects (like support ticket systems & automation tools)
+- Sharing code tips & dev memes on [Instagram](https://www.instagram.com/demonprogrammer/)
+- Exploring new tech stacks, especially anything involving **TypeScript**, **Next.js**, **Tailwind**, and **Docker**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Some of my favorite tools:
+`TypeScript` • `Node.js` • `NestJS` • `React` • `Next.js` • `Tailwind CSS` • `PostgreSQL` • `Prisma` • `Sentry` • `Docker` • `Cloudflare` • `Vercel`
+
+
+📫 Reach me:
+- [LinkedIn](https://www.linkedin.com/in/panindra-kumarrr/)
+- [Instagram](https://www.instagram.com/demonprogrammer/)
+- Email: panindrakumar84@gmail.com
+
+---
+
