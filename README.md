@@ -18,6 +18,17 @@ I'm a passionate Software Engineer who loves building robust, scalable applicati
   <img src="https://nodejs.org/static/images/logo.svg" height="40" alt="Node.js" />
 </p>
 
+### Daily Routine: 
+
+```js
+function toDo(day) {
+  if (day === "Sunday") 
+    return;
+  code(); eat(); sleep();
+  toDo(getNextDay(day));
+}
+```
+
 
 ### Reach me :
 
